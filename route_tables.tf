@@ -1,4 +1,4 @@
-resource "aws_route_table" "public" {
+resource "aws_route_table" "public-route" {
   vpc_id = aws_vpc.myvpc.id
 
 }
