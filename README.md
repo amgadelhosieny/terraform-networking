@@ -21,7 +21,7 @@ This project demonstrates how to set up a Virtual Private Cloud (VPC) on AWS usi
 ### Prerequisites
 
 1. **Install Terraform**: Follow the instructions on the [Terraform website](https://www.terraform.io/downloads.html).
-2. **AWS Credentials**:
+2. **AWS Credentials**:           
 export AWS_ACCESS_KEY_ID="your_access_key"
 export AWS_SECRET_ACCESS_KEY="your_secret_key"
 
