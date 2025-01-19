@@ -3,3 +3,6 @@ provider "aws" {
 }
 
 
+output "VPC-ID" {
+    value = aws_vpc.myvpc.id
+}
